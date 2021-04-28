@@ -1,5 +1,5 @@
 {
-  "name": "juuust-react-icon",
+  "name": "mistica-icons",
   "version": "0.0.3",
   "description": "Icon automation workflow with Figma",
   "main": "dist/index.js",
@@ -7,7 +7,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/leadream/juuust-react-icon.git",
+  "repository": "https://github.com/yceballost/juuust-react-icon.git",
   "author": "leadream",
   "keywords": [
     "react",
